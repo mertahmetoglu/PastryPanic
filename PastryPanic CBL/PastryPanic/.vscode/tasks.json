@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "javac build",
+      "type": "shell",
+      "command": "javac --add-modules java.desktop -d out src/main/java/PastryPanic.java",
+      "problemMatcher": ["$javac"]
+    }
+  ]
+}
