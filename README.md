@@ -55,4 +55,4 @@ Open in your IDE (IntelliJ, Eclipse, or VS Code) and run the `main` method in `P
 
 ## Course Context
 
-Developed as part of the Challenge-Based Learning (CBL) course at **Eindhoven University of Technology (TU/e)**, Q1 2025.
+Developed as part of the Programming (2IP90) course at **Eindhoven University of Technology (TU/e)**, Q1 2025.
