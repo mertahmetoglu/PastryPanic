@@ -9,7 +9,7 @@ Your energy constantly depletes — eat falling pastries to replenish it, and do
 ## Features
 
 - **Real-time game loop** with frame-based rendering and collision detection
-- **Dynamic difficulty scaling** — speed, spawn rate, and rotten food frequency increase over time
+- **Dynamic difficulty scaling** : speed, spawn rate, and rotten food frequency increase over time
 - **Two playable characters** to choose from
 - **High score system** that persists between sessions
 - **Sound effects and background music**
